@@ -3,7 +3,7 @@ void setup () {
 }
 void draw () {
     if (mousePressed) {
-        fill(0);
+        fill(145);
     } else {
         fill(255);
     }
